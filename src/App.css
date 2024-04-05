@@ -1,0 +1,5 @@
+body{
+    box-sizing: border-box;
+    background-color: rgba(234, 245, 249, 0.486);
+    scroll-behavior: smooth;
+}
